@@ -4,3 +4,4 @@
 * Bryan Pulla
 * Ambar Ruiz
 * Rebecca Tobias
+* Stulich John
