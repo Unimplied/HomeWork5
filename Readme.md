@@ -5,3 +5,5 @@
 * Ambar Ruiz
 * Rebecca Tobias
 * John Stulich
+* Daniel Tapia
+
