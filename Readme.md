@@ -7,3 +7,4 @@
 * John Stulich
 * Daniel Tapia
 * Rebecca Tobias
+* Alexander Vega
